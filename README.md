@@ -12,7 +12,7 @@ Recentify is a lightweight automation built with [Pipedream](https://pipedream.c
 
 * Pulls your 25 most recently saved (liked) songs on Spotify
 * Replaces the contents of a designated playlist with those 25 tracks
-* Runs every 10 minutes in the cloud (no app or MacBook required)
+* Runs every hour in the cloud (no app or MacBook required)
 
 ---
 
