@@ -137,7 +137,7 @@ This gives Pipedream permission to securely access your liked songs.
 
 * Click the blue **Deploy** button in the top right of Pipedream
 * You’re done! 🎉
-* Every 10 minutes, this will now auto-update your playlist
+* Every hour (or whatever you set the interval), this will now auto-update your playlist
 
 ---
 
